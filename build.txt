@@ -1,4 +1,7 @@
 displayName = Turrets Target Bosses | Calamity Addon
 author = TacoConKvass
-version = 0.1
+version = 1.0.0
 modReferences = CalamityMod
+homepage = https://github.com/TacoConKvass/TurretBossTarget
+side = both
+includeSource = true
